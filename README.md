@@ -1,5 +1,5 @@
 # JS-FormValidation
 
 <p aliighn="center">
-  <img width="600"  src="img/form.png">
+  <img src="img/form.png">
 </p>

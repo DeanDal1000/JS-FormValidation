@@ -1,3 +1,3 @@
 # JS-FormValidation
 
-![](img/filename form.png)
+![](img/form.png)

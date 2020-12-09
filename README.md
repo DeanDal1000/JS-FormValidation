@@ -1,3 +1,5 @@
 # JS-FormValidation
 
-![](img/form.png)
+<p aliighn="center">
+  <img src="img/form.png">
+</p>
